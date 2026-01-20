@@ -102,6 +102,7 @@ export function AuthForm() {
             </div>
           </CardContent>
         </Card>
+        navigate("/dashboard");
       </div>
     </div>
   );
